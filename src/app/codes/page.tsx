@@ -20,7 +20,7 @@ export default function CodesPage() {
               <strong>Topic:</strong> {repo.topic}
             </p>
             <p className="text-sm text-gray-600 mb-3">
-              <strong>Author:</strong> {repo.author}
+              <strong>Owner:</strong> {repo.owner}
             </p>
             <p className="text-sm text-gray-700 mb-4">{repo.description}</p>
 
