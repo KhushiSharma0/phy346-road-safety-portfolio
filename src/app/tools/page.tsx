@@ -15,7 +15,7 @@ export default function ToolsPage() {
           rel="noopener noreferrer"
         >
           <button className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
-            🚀 Open Interactive Dashboard
+            Open Interactive Dashboard
           </button>
         </a>
       </div>
