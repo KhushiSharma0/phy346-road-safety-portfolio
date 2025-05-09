@@ -5,7 +5,7 @@ export default function Navbar() {
   const links = siteTexts.navbar.links;
 
   return (
-    <nav className="p-4 shadow bg-[var(--primary)] text-white">
+    <nav className="p-4 sticky top-0 z-50 shadow bg-[var(--primary)] text-white">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-xl font-bold">
           <Link href="/">{siteTexts.navbar.brand}</Link>
