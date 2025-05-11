@@ -43,11 +43,11 @@ export const siteTexts = {
         url: 'https://github.com/dwporges/PHY-Road-Safety',
       },
       {
-        name: 'placeholder',
-        topic: 'Routes & STATS19 Collision Data Integration, more',
+        name: 'Merging-STATS19-and-Google-API-route-datasets',
+        topic: 'Merging STATS19 Collision Data and Google API Generated Routes, more',
         owner: 'Zofia Cywińska',
         description: 'placeholder',
-        url: 'https://github.com/Teammate3/teammate3-repo',
+        url: 'https://github.com/zmcywinska/Merging-STATS19-and-Google-API-route-datasets',
       },
       {
         name: 'placeholder',
