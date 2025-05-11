@@ -36,7 +36,7 @@ export const siteTexts = {
         url: 'https://github.com/KhushiSharma0/STATS19_route_risk_analysis',
       },
       {
-        name: 'PHY-Road-Safety',
+        name: 'PHY-Road-Safety_route_generation',
         topic: 'Routes Generation from GoogleAPI, more',
         owner: 'Daniel W. Porges',
         description: 'placeholder',
