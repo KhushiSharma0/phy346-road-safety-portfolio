@@ -20,7 +20,6 @@ export const siteTexts = {
   reportPage: {
     title: "Report Section",
     description: "This page will host the project's analysis reports, data summaries, and key findings.",
-    placeholderNote: "Placeholder page – content coming soon!",
   },
 
 
