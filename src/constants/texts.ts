@@ -13,7 +13,7 @@ export const siteTexts = {
   },
   homepage: {
     welcomeHeading: "Welcome to the South Yorkshire Road Safety Dashboard",
-    welcomeText: "This platform showcases our project’s data, reports, tools, and team.",
+    welcomeText: "This platform showcases our project’s data, reports, tools, and team. Due to time constraints, only the Report page and the Codes & Guides Page work, apologies for any inconveniences! If any further information is required, please feel free to contact me at my email : khushisharma4775@gmail.com.",
   },
 
 
