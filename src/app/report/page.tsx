@@ -1,7 +1,7 @@
 import { siteTexts } from '../../constants/texts';
 
 export default function ReportPage() {
-  const { title, description, placeholderNote } = siteTexts.reportPage;
+  const { title, description } = siteTexts.reportPage;
 
   return (
     <main className="bg-[var(--background)] text-gray-900">
